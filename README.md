@@ -1,0 +1,2 @@
+# Educational-Data-Analysis-and-Student-Performance-Prediction-
+I analyzed the Open University Learning Analytics dataset to discover trends in student involvement, demographics, and academic performance. I created and tested a classification model to predict student success, using feature engineering and missing variables to improve accuracy. Key observations were illustrated with Seaborn and Matplotlib. 
